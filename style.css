@@ -1,9 +1,5 @@
-body {
-    background-color: 1B1B3A;
 
-}
-
-header{
+.header{
     position: fixed;
     top: 0;
     min-height: 75px;
@@ -13,3 +9,4 @@ header{
     align-items: center;
     background-color: #eee;
 }
+
